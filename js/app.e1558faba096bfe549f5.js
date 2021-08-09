@@ -31,13 +31,13 @@ webpackJsonp([0], {
 				data: function() {
 					return {
 						qingjia: {
-							date: "2021年9月32日 25时61分",
+							date: "2021.8.8",
 							name: "张三",
 							teacher: "张三",
 							xueyuan: "马克思学院",
 							banji: "",
-							startdate: "2021年9月32日 0时0分",
-							stopdate: "2021年9月32日 0时0分",
+							startdate: "2021.8.8",
+							stopdate: "2021.8.8",
 							flag: 0
 						}
 					}
